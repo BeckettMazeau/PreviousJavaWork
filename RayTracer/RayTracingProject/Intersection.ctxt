@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Intersection
+comment1.params=position\ normal\ distance\ material
+comment1.target=Intersection(Point,\ Vector,\ double,\ Material)
+comment2.params=
+comment2.target=double\ getDistance()
+comment3.params=
+comment3.target=Material\ getSurfaceMaterial()
+comment4.params=
+comment4.target=Point\ getPosition()
+comment5.params=
+comment5.target=Vector\ getNormal()
+numComments=6

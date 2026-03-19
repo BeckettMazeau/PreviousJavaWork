@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CreatedShape
+comment0.text=\n\ Simple\ class\ for\ interaction\ and\ storage\ of\ shapes.\n\n\ @author\ beckett\ mazeau\n\ @version\ 5/17/24\n
+comment1.params=name\ shape\ type
+comment1.target=CreatedShape(java.lang.String,\ Surface,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=Surface\ getShape()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=shape
+comment5.target=void\ setShape(Surface)
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=x\ y\ z
+comment1.target=Point(double,\ double,\ double)
+comment10.params=
+comment10.target=java.lang.String\ stringValue()
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=
+comment4.target=double\ getZ()
+comment5.params=x
+comment5.target=void\ setX(double)
+comment6.params=y
+comment6.target=void\ setY(double)
+comment7.params=z
+comment7.target=void\ setZ(double)
+comment8.params=v
+comment8.target=Point\ add(Vector)
+comment9.params=p
+comment9.target=Vector\ subtract(Point)
+numComments=11

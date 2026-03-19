@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Phong
+comment0.text=\n\ Implementation\ of\ specular\ phong\ material\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=diffuse\ specular\ exponent
+comment1.target=Phong(Color,\ Color,\ double)
+comment2.params=i\ viewingRay\ li
+comment2.target=Color\ computeLighting(Intersection,\ Ray,\ Light)
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=Color\ getDiffuse()
+comment5.params=diffuse
+comment5.target=void\ setDiffuse(Color)
+comment6.params=
+comment6.target=Color\ getSpecular()
+comment7.params=specular
+comment7.target=void\ setSpecular(Color)
+comment8.params=
+comment8.target=double\ getExponent()
+comment9.params=exponent
+comment9.target=void\ setExponent(double)
+numComments=10

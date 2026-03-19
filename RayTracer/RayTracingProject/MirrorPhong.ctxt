@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MirrorPhong
+comment0.text=\n\ Extension\ of\ phong\ material\ which\ also\ reflects\ light\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=diff\ spec\ exp\ refPwr
+comment1.target=MirrorPhong(Color,\ Color,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=double\ getReflectiveness()
+numComments=4

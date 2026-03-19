@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ViewerUpdater
+comment0.text=\n\ Runnable\ method\ to\ take\ care\ of\ updating\ and\ managing\ render\ of\ the\ image\ preview\ on\ a\ seprate\ thread\ from\ main\n\ to\ allow\ the\ main\ thread\ to\ continue\ working\ whilst\ the\ image\ is\ updated.\n\n\ @author\ beckett\ mazeau\n\ @version\ 5/17/24\n
+comment1.params=viewerPanel\ currentScene\ mainPreview
+comment1.target=ViewerUpdater(javax.swing.JPanel,\ CreatedScene,\ javax.swing.JLabel)
+comment1.text=passed\ in\ objects\:\n\ viewer\ panel\ -\ used\ to\ tell\ when\ to\ stop\ rendering\ (isEnabled)\n\ currentScene\ -\ scene\ to\ render,\ as\ well\ as\ provides\ settings\ across\ classes\nmainpreview\ -\ display\ to\ update
+comment2.params=
+comment2.target=void\ run()
+numComments=3

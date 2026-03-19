@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lambert
+comment1.params=diffuse
+comment1.target=Lambert(Color)
+comment2.params=i\ viewingRay\ li
+comment2.target=Color\ computeLighting(Intersection,\ Ray,\ Light)
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=Color\ getDiffuse()
+comment5.params=diffuse
+comment5.target=void\ setDiffuse(Color)
+numComments=6

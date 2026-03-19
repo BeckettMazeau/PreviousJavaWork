@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PointLight
+comment1.params=c\ location
+comment1.target=PointLight(Color,\ Point)
+comment2.params=surfacePoint
+comment2.target=Vector\ computeLightDirection(Point)
+comment3.params=surfacePoint
+comment3.target=double\ computeLightDistance(Point)
+comment4.params=surfacePoint
+comment4.target=Color\ computeLightColor(Point)
+comment5.params=
+comment5.target=Color\ getLightColor()
+comment6.params=
+comment6.target=Point\ getPosition()
+numComments=7

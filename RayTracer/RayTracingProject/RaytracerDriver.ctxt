@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RaytracerDriver
+comment0.text=\n\ Driver\ for\ the\ various\ stages\ of\ the\ image\ generation\ and\ saving\ process.\n\n\ @author\ Ben\ Farrar\ (saveImage)\ |\ Beckett\ Mazeau\ (GUI)\n\ @version\ 2019.05.22\ |\ 2024.04.18\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ GUI()
+comment3.params=filename\ image
+comment3.target=void\ saveImage(java.lang.String,\ ColorImage)
+comment3.text=\n\ Reads\ in\ each\ pixel\ from\ a\ ColorImage,\ and\ then\ writes\ the\ image\ out\ to\ a\ PNG\ file.\n
+comment4.params=
+comment4.target=void\ saveTestImage()
+comment4.text=\n\ Simpler\ version\ of\ the\ saveImage\ method\ for\ testing.\ Doesn't\ require\ integration\ with\ ColorImage,\ just\ writes\n\ a\ gradient\ of\ colors\ out\ to\ an\ image\ to\ make\ sure\ the\ BufferedImage,\ ImageIO,\ and\ File\ libraries\ are\ working\n\ as\ expected.\n
+numComments=5
