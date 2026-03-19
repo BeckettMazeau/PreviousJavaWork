@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PhotoshopDriver
+comment0.text=\ \n\ This\ PhotoshopDriver\ is\ where\ you\ will\ write\ the\ commands\ to\ actually\ load,\n\ edit,\ and\ save\ your\ images.\ It\ contains\ a\ couple\ of\ utility\ methods\ that\ will\ be\ \n\ used\ to\ handle\ the\ file\ reading\ and\ writing,\ which\ you\ shouldn't\ change,\ but\ the\n\ main\ method\ is\ yours\ to\ use\ however\ you\ need.\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ saveTestImage()
+numComments=3

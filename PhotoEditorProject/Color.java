@@ -1,14 +1,14 @@
-public class Coolor {/*
+public class Color {
     //array for the RGB values in each color object
     int[] RGB = new int[3];
     //constructor to fill in/initialize RGB values in each color object
-    public Coolor(int R, int G, int B){
+    public Color(int R, int G, int B){
         RGB[0] = R;
         RGB[1] = G;
         RGB[2] = B;
     }
     //constructor to fill in/initialize RGB values in each color object, alternative constructor allowing for direct input of int array
-    public Coolor(int[] rgb){
+    public Color(int[] rgb){
         RGB = rgb;
     }
     //finds color distance using standard distance formula (derived from pythagorean theorem)
@@ -66,4 +66,4 @@ public class Coolor {/*
     public int getRed(){return RGB[0];}
     public int getGreen(){return RGB[1];}
     public int getBlue(){return RGB[2];}
-*/}
+}

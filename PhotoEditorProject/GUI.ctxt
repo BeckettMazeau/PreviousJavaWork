@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=
+comment1.target=GUI()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=imageLocation
+comment3.target=void\ applyEdit(java.lang.String)
+comment4.params=unsortedValues
+comment4.target=double[]\ getRGBT(java.lang.String)
+comment5.params=image
+comment5.target=java.awt.Image\ scaleImage(java.lang.String)
+comment6.params=image\ Width\ Height
+comment6.target=java.awt.Image\ scaleImage(java.lang.String,\ int,\ int)
+comment7.params=str
+comment7.target=boolean\ isOnlyNumbers(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String[]\ getImagePaths()
+numComments=9

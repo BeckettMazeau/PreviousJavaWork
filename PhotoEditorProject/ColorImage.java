@@ -1,6 +1,6 @@
 import java.awt.*;
 
-public class CoolorImage {
+public class ColorImage {
     //Initialize 2d color array for colorimage class
     private Color[][] colorImage;
     //ColorImage Constructor, fills array with colors of random values

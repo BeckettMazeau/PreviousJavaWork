@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 import static javax.swing.JOptionPane.showMessageDialog;
-public class GUII implements ActionListener {
+public class GUI implements ActionListener {
     //Creating list of filters for use in combobox/dropdown
     private String[] filters = {"Sepia","Monochrome","Contrast","Chroma Key Green","Chroma Key Color","Color Edges","Edge Detection w/ Color",
             "Edge Detection B&W","Rotate 90 Counterclockwise","Rotate 90 Clockwise","Crop","Flip","Left to Right Mirror",
